@@ -149,6 +149,7 @@ def running_the_game():
 
 # -------------------------------------------------------------------
 
+# MAIN PROGRAM
 preparation_of_the_game()
 while True:
     running_the_game()
